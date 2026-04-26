@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".direnv/bin/nix-direnv-reload"
-hash = "9350d3e845c93035990ff86fe86ad14b687b3963d4fde725f8f16a514deb4e8e"
-
-[[files]]
-file = ".direnv/nix-profile-26.05-0d1kf07ph2ply64i"
-hash = "c3e8fc02ba0990c9b9b6e92b46a7819d4809e30d2290d6a6a7968254b53e28ab"
-
-[[files]]
-file = ".direnv/nix-profile-26.05-0d1kf07ph2ply64i.rc"
-hash = "3f2d471e764e9689746e0f4901f37309b549ed20eb8a4744b40b9d30182aea01"
-
-[[files]]
-file = ".envrc"
-hash = "5aa3cd865fb13cb88c1d749614b53120a92d16a922fe89a3009b0552097926a0"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
@@ -287,13 +271,5 @@ hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
-file = "npins/default.nix"
-hash = "4b00cfc74eafb33b9fca27e14b3b121c32ac49755494f5c217d46af3fd6e98ab"
-
-[[files]]
 file = "npins/sources.json"
 hash = "6d96796760c38bfd8b7c6313a3a6a8ccf1ef72a15ad9ef9699334b44dce255c8"
-
-[[files]]
-file = "shell.nix"
-hash = "71b9bc84f8a2f04a0eba2da16c149944c7d666b9e927d98b5d79fb35dc70fc06"

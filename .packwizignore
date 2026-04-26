@@ -1,1 +1,4 @@
 .jj/
+.direnv/
+.envrc
+*.nix
