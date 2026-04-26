@@ -222,6 +222,11 @@ hash = "476e0255c6cafe5483294236d0431e3cc162222e7ad546a2f2271627e478dce0"
 metafile = true
 
 [[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "2e9dead89853555c8d909fe2549af2db5e5051c690fae695df93d2369aa8314c"
+metafile = true
+
+[[files]]
 file = "mods/respackopts.pw.toml"
 hash = "90b9919bbe87b80bb3274228d6543adb328a51753b0741f6ea4d98441f268983"
 metafile = true
