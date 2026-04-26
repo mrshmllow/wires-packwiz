@@ -236,6 +236,11 @@ hash = "86a9a547931b50ca0d9716912f2858e15b05e71e3359f40f0667994c2e28c9d2"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "0ca90a25548289e4149c3d8435d50b75ff28bb83f973bf3e2cdc8a0b4b911acc"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "476e0255c6cafe5483294236d0431e3cc162222e7ad546a2f2271627e478dce0"
 metafile = true
@@ -313,6 +318,21 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "ca37901ce16f10e30715edf354b5d08c500e60abdb7ce64da79ce04a3d880ced"
+metafile = true
+
+[[files]]
+file = "mods/vb-compat.pw.toml"
+hash = "f1d4ab832039042564deb597162b7abf97bf7611c732712ecb528647f90965e4"
+metafile = true
+
+[[files]]
+file = "mods/vb-mob-variants-compat.pw.toml"
+hash = "ce2c77ea4776ab4945d50f8eb286d673abb946320d2aa8a3b956b58e4353fc50"
 metafile = true
 
 [[files]]
