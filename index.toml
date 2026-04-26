@@ -31,6 +31,11 @@ hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
 metafile = true
@@ -126,6 +131,11 @@ hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
 metafile = true
 
 [[files]]
+file = "mods/fallingleavesforge.pw.toml"
+hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "69495e979400e63b317b80a71bdd9276929d503b12fa0e73bc668c474d5dbc4c"
 metafile = true
@@ -206,8 +216,28 @@ hash = "e152bb9ae171e9f34c406bbc29dc36c8d8def9d8f913e1a1bbf82bd63d4e8da9"
 metafile = true
 
 [[files]]
+file = "mods/particle-effects.pw.toml"
+hash = "8dbcdef950018794e47a9fd4f078607576eab1ab5b40c11737b2118ebc972f59"
+metafile = true
+
+[[files]]
+file = "mods/particle-interactions.pw.toml"
+hash = "12fa04dfc69d95c522b43e3d5a3e0d2439c332f51d87aea9c214631dd607a7ce"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "86a9a547931b50ca0d9716912f2858e15b05e71e3359f40f0667994c2e28c9d2"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "476e0255c6cafe5483294236d0431e3cc162222e7ad546a2f2271627e478dce0"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps-forge.pw.toml"
+hash = "bc7b8fc32be0531ec1f3300b4720d97fcc266527def7476f4da1c8a5d91d1a36"
 metafile = true
 
 [[files]]
@@ -251,6 +281,11 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "1fa203fbf7578d4f6fc251b3529cf79935d7e4a573a281241de74e488be639b7"
+metafile = true
+
+[[files]]
 file = "mods/terralith-structures-suppressor.pw.toml"
 hash = "ee61c6faa2541fcf1ea259c16c32ae5284a53a9674b1f6f3b2e1683b5a70f6dc"
 metafile = true
@@ -278,3 +313,23 @@ metafile = true
 [[files]]
 file = "npins/sources.json"
 hash = "6d96796760c38bfd8b7c6313a3a6a8ccf1ef72a15ad9ef9699334b44dce255c8"
+
+[[files]]
+file = "resourcepacks/atmospheric-skies-fog.pw.toml"
+hash = "3ae387a72f78d6f84d5beed7d4c55d5a93fcc4e11525873f2e91d7d11bd04b7e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gentler-weather-sounds.pw.toml"
+hash = "dbcf037cfc9dbbc387d2689cee6693896cedf9b632a4047d6163eaa115b29f61"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simple-grass-flowers.pw.toml"
+hash = "bc4dcbd6b77adb2180049d63ed4a8981553f06dbf3e32080022ffd87dd1fb09b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual-effects-plus.pw.toml"
+hash = "ab1ca40f37cf709d680ba1a47e4fa8d9edda3f2945ac2986cabc7f3cc46d396f"
+metafile = true
