@@ -316,6 +316,11 @@ hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]
+file = "mods/vectorientation.pw.toml"
+hash = "a60d22e7afb11217b377cb07e4f4c2f90753379c2edf0f05e7ae535eae677a5e"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
