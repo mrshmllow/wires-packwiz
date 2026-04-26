@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "datapacks/terralith-no-structures.pw.toml"
+hash = "0bfb5c7b184192309b34edb31cf6e8725e4f595a358d8bdae60a2bd5006e07d8"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
@@ -276,6 +281,11 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/simple-datapacks.pw.toml"
+hash = "527f912e5abc4931a845802ab07c0534bd7765a391b9e4571d5630d268d3ee98"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
 metafile = true
@@ -301,8 +311,8 @@ hash = "1fa203fbf7578d4f6fc251b3529cf79935d7e4a573a281241de74e488be639b7"
 metafile = true
 
 [[files]]
-file = "mods/terralith-structures-suppressor.pw.toml"
-hash = "ee61c6faa2541fcf1ea259c16c32ae5284a53a9674b1f6f3b2e1683b5a70f6dc"
+file = "mods/terralith-no-structures.pw.toml"
+hash = "0bfb5c7b184192309b34edb31cf6e8725e4f595a358d8bdae60a2bd5006e07d8"
 metafile = true
 
 [[files]]
@@ -344,10 +354,6 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
-
-[[files]]
-file = "npins/sources.json"
-hash = "6d96796760c38bfd8b7c6313a3a6a8ccf1ef72a15ad9ef9699334b44dce255c8"
 
 [[files]]
 file = "resourcepacks/atmospheric-skies-fog.pw.toml"

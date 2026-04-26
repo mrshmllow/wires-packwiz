@@ -1,4 +1,5 @@
 .jj/
+npins/
 .direnv/
 .envrc
 *.nix
