@@ -1,0 +1,124 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".direnv/bin/nix-direnv-reload"
+hash = "9350d3e845c93035990ff86fe86ad14b687b3963d4fde725f8f16a514deb4e8e"
+
+[[files]]
+file = ".direnv/nix-profile-26.05-0d1kf07ph2ply64i"
+hash = "c3e8fc02ba0990c9b9b6e92b46a7819d4809e30d2290d6a6a7968254b53e28ab"
+
+[[files]]
+file = ".direnv/nix-profile-26.05-0d1kf07ph2ply64i.rc"
+hash = "3f2d471e764e9689746e0f4901f37309b549ed20eb8a4744b40b9d30182aea01"
+
+[[files]]
+file = ".envrc"
+hash = "5aa3cd865fb13cb88c1d749614b53120a92d16a922fe89a3009b0552097926a0"
+
+[[files]]
+file = ".jj/repo/index/op_links/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+hash = "cbd2f459d90e73aca76dd891ab9de0154dfaf7a48b36c65b4880c830a193675c"
+
+[[files]]
+file = ".jj/repo/index/op_links/96a31ce79c892fe6dfebcf35775af3fcdd59b4e86fcf46d7709d994e143d6905532e5024816580b9a96fc081d7d2376870a72a6bd6c3dadd0de0533934548333"
+hash = "07d672dcf58fc0303d8f35ab3276f57561bf487d36ffb05d753a3cbaf564d869"
+
+[[files]]
+file = ".jj/repo/index/segments/c66b8eadace55a7b85488d29b8cb9014cc372ec5276421deb17fe2224b6f4fae5e947ac15d922fd1eb783bdc2f0a9ed083a8b9ac8d55973ca2f259042cb31a95"
+hash = "8554b4c1ee7ad17527c3e8a3eddb4a46ef199f9de12c6c42ca567905fe1cc832"
+
+[[files]]
+file = ".jj/repo/index/segments/d27ad326963b75736b636adad9fb812eb3f2871e0efb4bc7db37d4b701a4282911eaaee91bed3a759e940769b667be1ed66f2d7f2f41ac3906b87ab7eec19c3a"
+hash = "7dded0d7539a893e0a1314dd270a4c166b9e7d7b034255c27b4c6893f3fdbbc5"
+
+[[files]]
+file = ".jj/repo/index/type"
+hash = "37a8eec1ce19687d132fe29051dca629d164e2c4958ba141d5f4133a33f0688f"
+
+[[files]]
+file = ".jj/repo/op_heads/heads/96a31ce79c892fe6dfebcf35775af3fcdd59b4e86fcf46d7709d994e143d6905532e5024816580b9a96fc081d7d2376870a72a6bd6c3dadd0de0533934548333"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".jj/repo/op_heads/type"
+hash = "b033b33ef05b48b699b625dd905e19e3ad154d4c9a393f0623e60d6179a233b8"
+
+[[files]]
+file = ".jj/repo/op_store/operations/96a31ce79c892fe6dfebcf35775af3fcdd59b4e86fcf46d7709d994e143d6905532e5024816580b9a96fc081d7d2376870a72a6bd6c3dadd0de0533934548333"
+hash = "7ed9ae71fb374a9458e4b087d69086942cd59aeda3c08347a4cf45739bb5d1d1"
+
+[[files]]
+file = ".jj/repo/op_store/type"
+hash = "ed58fb26ed304558ff125ef841b4ba29b7b0d94b810f1c5428312114ac4a0c1b"
+
+[[files]]
+file = ".jj/repo/op_store/views/b54587ac634b60c2fd4f68dc4d5b196308c0e2eb5f6de6e7b0cd81aea1376675b2ccf95da9075107d87f47067a0a349e1c5ce91ac5a3234f5a70225dc0ce600a"
+hash = "f925fe00aa61817a1d891d213fe4fbb1e754b24496495a7edcc36510931bff47"
+
+[[files]]
+file = ".jj/repo/store/extra/482ae5a29fbe856c7272f2071b8b0f0359ee2d89ff392b8a900643fbd0836eccd067b8bf41909e206c90d45d6e7d8b6686b93ecaee5fe1a9060d87b672101310"
+hash = "af5570f5a1810b7af78caf4bc70a660f0df51e42baf91d4de5b2328de0e83dfc"
+
+[[files]]
+file = ".jj/repo/store/extra/71d8aa87b3dc3868e975f0cd6a13db14ebf69416d3864a55d2522f7f1537ebe3e63cd24d1bab568dcf389b8b3e422a7fad041d58be0a55352abf2ec27d9a23d3"
+hash = "f79405a33b65d68c8baf235d72c62d55ece1007a1dabaec521f601ef028e42fd"
+
+[[files]]
+file = ".jj/repo/store/extra/heads/71d8aa87b3dc3868e975f0cd6a13db14ebf69416d3864a55d2522f7f1537ebe3e63cd24d1bab568dcf389b8b3e422a7fad041d58be0a55352abf2ec27d9a23d3"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".jj/repo/store/git_target"
+hash = "6fce35d09d036a8aa687ec5aface9db45921166ea3bd2615c775afbb199a9d96"
+
+[[files]]
+file = ".jj/repo/store/type"
+hash = "9a881b9b9f23849475296a8cd768ea1965bc3152df7118e60c145975af6aa58a"
+
+[[files]]
+file = ".jj/repo/submodule_store/type"
+hash = "37a8eec1ce19687d132fe29051dca629d164e2c4958ba141d5f4133a33f0688f"
+
+[[files]]
+file = ".jj/repo/workspace_store/index"
+hash = "e9d2432d428b4a122c6242718919909c4ce6f26a7ade44b17fcf9e4d3780dab8"
+
+[[files]]
+file = ".jj/working_copy/checkout"
+hash = "5489b29dee4d6d75b1980b207ec00c9f1c96d152bae799e7d7148b36ab39f093"
+
+[[files]]
+file = ".jj/working_copy/tree_state"
+hash = "2c8969a952d9c0962d28af18ec70f44aa9d4bf5aaf19184290bde307e43223b1"
+
+[[files]]
+file = ".jj/working_copy/type"
+hash = "25bf8e1a2393f1108d37029b3df5593236c755742ec93465bbafa9b290bddcf6"
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "735f0a8e564e8c80c282a7ba97fe77c34edec0402883f7154fd0206572537afe"
+metafile = true
+
+[[files]]
+file = "npins/default.nix"
+hash = "4b00cfc74eafb33b9fca27e14b3b121c32ac49755494f5c217d46af3fd6e98ab"
+
+[[files]]
+file = "npins/sources.json"
+hash = "6d96796760c38bfd8b7c6313a3a6a8ccf1ef72a15ad9ef9699334b44dce255c8"
+
+[[files]]
+file = "shell.nix"
+hash = "71b9bc84f8a2f04a0eba2da16c149944c7d666b9e927d98b5d79fb35dc70fc06"
