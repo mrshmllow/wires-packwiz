@@ -236,6 +236,11 @@ hash = "e152bb9ae171e9f34c406bbc29dc36c8d8def9d8f913e1a1bbf82bd63d4e8da9"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+metafile = true
+
+[[files]]
 file = "mods/particle-effects.pw.toml"
 hash = "8dbcdef950018794e47a9fd4f078607576eab1ab5b40c11737b2118ebc972f59"
 metafile = true
