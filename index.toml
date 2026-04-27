@@ -30,6 +30,11 @@ hash = "9121b274bd87552ae976983d9bdd56061274c126a4a1b7b2e13605b1a1ec0599"
 metafile = true
 
 [[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "ba58df8c82fc920a316a3ad2f8d52e985e34cd09713487ccbb5ea778b6168c2d"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "4b060001a83142b94d6b60cf32bc015b0deb6090d5d962dac4650b3caed14f89"
 metafile = true
@@ -147,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
+metafile = true
+
+[[files]]
+file = "mods/dripsounds.pw.toml"
+hash = "3298439919588dd564e9174af6cfc8496b253706f78407c881b4216e999b5234"
 metafile = true
 
 [[files]]
