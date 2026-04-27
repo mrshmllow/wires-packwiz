@@ -251,6 +251,11 @@ hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
 
 [[files]]
+file = "mods/one-click-join.pw.toml"
+hash = "bbd05a69cb984664606a631078980038db98580bb704b146b24cc20bdb806760"
+metafile = true
+
+[[files]]
 file = "mods/particle-effects.pw.toml"
 hash = "8dbcdef950018794e47a9fd4f078607576eab1ab5b40c11737b2118ebc972f59"
 metafile = true
