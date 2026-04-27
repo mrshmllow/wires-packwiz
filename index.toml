@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith-structures-suppressor.pw.toml"
-hash = "ee61c6faa2541fcf1ea259c16c32ae5284a53a9674b1f6f3b2e1683b5a70f6dc"
+hash = "2c8a83eea299a3821429d4d9c2618271ae179c9f801d5cdc2e3ba1958a5a8a47"
 metafile = true
 
 [[files]]

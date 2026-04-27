@@ -1,6 +1,6 @@
 name = "Terralith structures suppressor"
 filename = "Terralith_structures_suppressor.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hu2RSlfZ/versions/2O288GXs/Terralith_structures_suppressor.jar"
