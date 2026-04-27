@@ -411,6 +411,10 @@ hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Visual Effects+.zip.rpo"
+hash = "239d96b40d58923619bdd3aadcaef4ec7afe8b5b7ced3760a8c288c608f0d8af"
+
+[[files]]
 file = "resourcepacks/atmospheric-skies-fog.pw.toml"
 hash = "3ae387a72f78d6f84d5beed7d4c55d5a93fcc4e11525873f2e91d7d11bd04b7e"
 metafile = true
