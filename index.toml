@@ -462,3 +462,8 @@ metafile = true
 file = "resourcepacks/visual-effects-plus.pw.toml"
 hash = "ab1ca40f37cf709d680ba1a47e4fa8d9edda3f2945ac2986cabc7f3cc46d396f"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
+metafile = true
