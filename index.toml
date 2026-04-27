@@ -196,6 +196,11 @@ hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
+metafile = true
+
+[[files]]
 file = "mods/gputape.pw.toml"
 hash = "c23254e855e6e646ad1f774f0d2871b3bebab2a1fe847385d586089baef49347"
 metafile = true
@@ -328,11 +333,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
-metafile = true
-
-[[files]]
-file = "mods/simple-datapacks.pw.toml"
-hash = "527f912e5abc4931a845802ab07c0534bd7765a391b9e4571d5630d268d3ee98"
 metafile = true
 
 [[files]]
