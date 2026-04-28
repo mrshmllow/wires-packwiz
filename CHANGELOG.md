@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## [v1.2.0]
+
+### Added
+
+- Added xaeros minimap & xaeros world map.
+
 ## [v1.1.0]
 
 ### Added
