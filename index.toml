@@ -140,6 +140,11 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/dark-window-bar.pw.toml"
+hash = "fdd46c7e64a7cfbd91b0bfc838cc79caf6ab081ae481e49e8b7e529d476fc4ab"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "ef7868aa3a029cdb7a9a46fc3f55ae12c4bc86cb5d92ae889ed554acfa229c45"
 metafile = true
