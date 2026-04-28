@@ -10,7 +10,7 @@ hash = "dfd082d50ac23603398cd986f952b21b32ab69c2cd37bc595ce2201070d31daf"
 
 [[files]]
 file = "config/mutils/mutils.json5"
-hash = "2a7c844a7b0c714b17e6875665b1c8e1856bab2657fce7fd505abe6050d21de3"
+hash = "5842725ecc0cb3ea7f01ad0cd13ac87d55b84f30fcf5b198452a1c77b3cf6c54"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

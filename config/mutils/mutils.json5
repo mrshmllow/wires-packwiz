@@ -20,7 +20,7 @@
 	nameFilters: [],
 	versionFilters: [],
 	// Chat Welcome
-	chatWelcome: true,
+	chatWelcome: false,
 	chatWelcomeMessage: "wires",
 	// Window Utils
 	customIcon: false,
