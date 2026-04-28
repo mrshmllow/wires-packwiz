@@ -10,6 +10,11 @@ hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
 
 [[files]]
+file = "mods/advancements-reloaded.pw.toml"
+hash = "35709fe6effd2ae0200f21b662448cb602872ea8af8858d2f3b2826df114d75a"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
