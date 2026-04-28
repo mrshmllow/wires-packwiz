@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","file/Gentler Weather Sounds 2.2.0.zip","file/Simple Grass Flowers v1.9.6.zip","file/Atmospheric Skies \u0026 Fog 1.3.zip","file/Visual Effects+.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","file/Gentler Weather Sounds 2.2.0.zip","file/Simple Grass Flowers v1.9.6.zip","file/Atmospheric Skies \u0026 Fog 1.3.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
