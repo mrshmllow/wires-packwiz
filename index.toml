@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "b4dab8e97c57ba9885c270ac805aebcda2bb8e8e3996c34acd4f0e227d11469a"
+hash = "b5c988a806d6dac79c85249f3b9535dd7368717ff72fe10dcd9002c44dff31f5"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
