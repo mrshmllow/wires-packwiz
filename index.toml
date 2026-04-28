@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "06111c6797d5e5932b792d0c3afdf13bc912ba44af806058bbca4770d8915305"
+hash = "3f0a4f31c508d1a5d426addb035b17ffb27d7b686a469c8164fc8bfd78c2d78a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
+hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "69495e979400e63b317b80a71bdd9276929d503b12fa0e73bc668c474d5dbc4c"
+hash = "ba424f5f24f050234fec8ffb948bf869d5ce4aa7933bc50d1953bd408efd6e2b"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e152bb9ae171e9f34c406bbc29dc36c8d8def9d8f913e1a1bbf82bd63d4e8da9"
+hash = "6c600fe7b0789b7501968f57bb33b526e8c711dc6305f64b406abccfbdb971d5"
 metafile = true
 
 [[files]]
@@ -424,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "735f0a8e564e8c80c282a7ba97fe77c34edec0402883f7154fd0206572537afe"
+hash = "25b5dfb19a7b9fc82bd8ee5d78ea02c122edbe9ca45a06020345cce03e1d8048"
 metafile = true
 
 [[files]]
