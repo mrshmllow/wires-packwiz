@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "b5c988a806d6dac79c85249f3b9535dd7368717ff72fe10dcd9002c44dff31f5"
+hash = "ac2e3884d4f5c2e0bb81f5118bc32793324bfe22a07f3437c296af388006ec6e"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "ba424f5f24f050234fec8ffb948bf869d5ce4aa7933bc50d1953bd408efd6e2b"
+hash = "74a9c6f2f890649eb693c9f48c3d99148b5526e23371cf1a9a6276bd3b21b214"
 metafile = true
 
 [[files]]
@@ -424,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "25b5dfb19a7b9fc82bd8ee5d78ea02c122edbe9ca45a06020345cce03e1d8048"
+hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
 
 [[files]]
