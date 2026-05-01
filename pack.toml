@@ -1,12 +1,12 @@
 name = "wires-create"
 author = "marshmallow, michaili"
-version = "1.4.0"
+version = "1.5.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "43396d1b5ac58c8d608f1cbd83f9e4af70bdb258e16a684b547e30ce0bae27a1"
+hash = "aadf58f17c13a67767549cd7fc0b822743698d74e8348cf1b55b64d722a362f4"
 
 [versions]
 minecraft = "1.21.1"

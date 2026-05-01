@@ -1,16 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CHANGELOG.md"
-hash = "ac2e3884d4f5c2e0bb81f5118bc32793324bfe22a07f3437c296af388006ec6e"
-
-[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "dfd082d50ac23603398cd986f952b21b32ab69c2cd37bc595ce2201070d31daf"
-
-[[files]]
-file = "config/mutils/mutils.json5"
-hash = "5842725ecc0cb3ea7f01ad0cd13ac87d55b84f30fcf5b198452a1c77b3cf6c54"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -350,11 +342,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
-metafile = true
-
-[[files]]
-file = "mods/mutils.pw.toml"
-hash = "b1e8e202624ee0c5148ef457e753e1367cdee0c8a67550fe6ef68ab673ed633f"
 metafile = true
 
 [[files]]
