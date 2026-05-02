@@ -1,0 +1,8 @@
+name = "voxy-0.2.14-alpha-75ad50a9.jar"
+filename = "k4s1s3"
+side = "both"
+
+[download]
+url = "https://files.catbox.moe/k4s1s3"
+hash-format = "sha512"
+hash = "ba4ae368fe0f29f081fd323be445dd7a2f43b92363f161ba4b83bd61a4ff038483228f1d4bbc3def94b5a05b3bed5e8d25a94194a6ea2d43da08358b98449ba3"

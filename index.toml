@@ -499,8 +499,13 @@ hash = "ce2c77ea4776ab4945d50f8eb286d673abb946320d2aa8a3b956b58e4353fc50"
 metafile = true
 
 [[files]]
+file = "mods/voxy-0-2-14-alpha-75ad50a9-jar.pw.toml"
+hash = "69a56458689ad8fbc7926017ae5eeea9cefac77b609b8148784bc33e55b38a0d"
+metafile = true
+
+[[files]]
 file = "mods/voxyserver-1-1-5-jar.pw.toml"
-hash = "cc95f390d0eca5f7ca0151ac717869b2d0d6ee9af2264d4f886d826ff445d102"
+hash = "163a9c4d3f353b3ce7d990197b789fc6d195a6f5a96890779f7dffa6470ee95d"
 metafile = true
 
 [[files]]
