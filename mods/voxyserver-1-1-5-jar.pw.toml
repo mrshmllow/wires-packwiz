@@ -3,5 +3,5 @@ filename = "cxeg6o.5"
 
 [download]
 url = "https://files.catbox.moe/cxeg6o.5"
-hash-format = "sha256"
-hash = "0832527c99eb0d0a4419dba282bd766840bc60b07226eef2ff0be09401bae0e1"
+hash-format = "sha512"
+hash = "22e37ec3d7677412aeb43b1b35dad814853cac034abd02b2b5a2934b2446163121c140dd70a163597a144ef9bc322bdccc5d883e8bc6df7b43fa1fe158fefa75"

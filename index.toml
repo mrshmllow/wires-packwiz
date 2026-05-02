@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxyserver-1-1-5-jar.pw.toml"
-hash = "a4242b3a9e711ba4536a85a96f0b62c5eabfe30f440a3d2400c84b657cbce6b2"
+hash = "cc95f390d0eca5f7ca0151ac717869b2d0d6ee9af2264d4f886d826ff445d102"
 metafile = true
 
 [[files]]
