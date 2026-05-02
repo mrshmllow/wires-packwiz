@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "8dbcdef950018794e47a9fd4f078607576eab1ab5b40c11737b2118ebc972f59"
+hash = "2194528e2a36934e31baa83e3937ec27b60e57cb5d7839cf7574a54b752ddde6"
 metafile = true
 
 [[files]]
