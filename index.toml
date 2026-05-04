@@ -144,6 +144,11 @@ hash = "2e0e167422dc70f6d92da6669020e1cfd4417e47118ea66bd8f566a3295c8040"
 metafile = true
 
 [[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "34d808989e71221b8e01a44bc8031f20af1c94981acb0cba4669e0e58be69629"
+metafile = true
+
+[[files]]
 file = "mods/create-vibrant-vaults.pw.toml"
 hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
 metafile = true
