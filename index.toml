@@ -354,6 +354,11 @@ hash = "df6299f5622d3e53a9cae66696cdc7b2b557b11b5be101eebb7ebd7a91d501db"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "413494b5ba534461e22545173a8cc6e98b04962a0ee9514498b830b99d4acabe"
+metafile = true
+
+[[files]]
 file = "mods/one-click-join.pw.toml"
 hash = "bbd05a69cb984664606a631078980038db98580bb704b146b24cc20bdb806760"
 metafile = true
