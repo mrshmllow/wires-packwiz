@@ -1,0 +1,13 @@
+name = "Recolourful Containers GUI + HUD"
+filename = "Recolourful Containers 3.1.1 (1.19.4+).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lewweaHO/versions/9WhJCze2/Recolourful%20Containers%203.1.1%20%281.19.4%2B%29.zip"
+hash-format = "sha512"
+hash = "3b1d319f039f13e44860b7a6ede11eb982ddcc0f4091124820d4458db8f431f6dd89708624276c26f035eff85efe1c7740e51cef3ec6e457a882b63e3f96ebaf"
+
+[update]
+[update.modrinth]
+mod-id = "lewweaHO"
+version = "9WhJCze2"

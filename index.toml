@@ -234,6 +234,11 @@ hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
+metafile = true
+
+[[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
 metafile = true
@@ -366,6 +371,11 @@ metafile = true
 [[files]]
 file = "mods/one-click-join.pw.toml"
 hash = "bbd05a69cb984664606a631078980038db98580bb704b146b24cc20bdb806760"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "6f45c3f2ec9005b18846088784d291f4dabcce7b569031fb44855845a33aa8f7"
 metafile = true
 
 [[files]]
@@ -571,6 +581,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/gentler-weather-sounds.pw.toml"
 hash = "dbcf037cfc9dbbc387d2689cee6693896cedf9b632a4047d6163eaa115b29f61"
+metafile = true
+
+[[files]]
+file = "resourcepacks/recolourful-containers-gui.pw.toml"
+hash = "650e427e81e32c45cc78b814d0096e832d4dc532788ff8dae8993236e2370608"
 metafile = true
 
 [[files]]
