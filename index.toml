@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "133e7c9295b9e7e8577b5ca36cf9548b4c590eeb0708fdeb9cb59c2758759ac8"
+hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6c600fe7b0789b7501968f57bb33b526e8c711dc6305f64b406abccfbdb971d5"
+hash = "d2d2b14614ad6820caffa69219414d491d59280685662cbe808f5df33c687555"
 metafile = true
 
 [[files]]
@@ -530,12 +530,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "02e2acc15a8c1b7bbe44a64af68574d7e024f1c45504a6997568c9fcbab3846b"
+hash = "0984e282704788ee3f239a7f8797c7ad4ebf6629e856215ebb857bac01a97472"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "192a4685f8a182d1fa2fae67e2fad8b74ba547726beecfe8868174b4172d76a8"
+hash = "ac287f392613eddfa285620dcecb3fea25ee6232a201009cde5c5511b6a39fb9"
 metafile = true
 
 [[files]]
