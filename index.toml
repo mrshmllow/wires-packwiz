@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "0dc45be56630f8d51a4e52b62003ef04a83b3462b4834cd8ad5e897790f99277"
+hash = "d3ab2563c666063a9cff0320b932d0e625705915c3b1ee140afcffd5aa9c899c"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -564,6 +564,11 @@ hash = "632e46ab8fc7d1c95f7744bf4425f1b09665be2dd7e765296739edac316012a2"
 metafile = true
 
 [[files]]
+file = "resourcepacks/create-style-interface.pw.toml"
+hash = "b8b5779ab7bae27e137fcab4cb1d5c675e6d960ce91961fceb421ebb5dad0eee"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
 hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
 metafile = true
@@ -571,11 +576,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/gentler-weather-sounds.pw.toml"
 hash = "dbcf037cfc9dbbc387d2689cee6693896cedf9b632a4047d6163eaa115b29f61"
-metafile = true
-
-[[files]]
-file = "resourcepacks/recolourful-containers-gui.pw.toml"
-hash = "650e427e81e32c45cc78b814d0096e832d4dc532788ff8dae8993236e2370608"
 metafile = true
 
 [[files]]
