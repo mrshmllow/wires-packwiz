@@ -284,11 +284,6 @@ hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tabs.pw.toml"
-hash = "77e564f0ba938056be27bf43b0422c0fcb767aa206e8cd0ee351aada0f664591"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
