@@ -554,11 +554,6 @@ hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
-file = "resourcepacks/atmospheric-skies-fog.pw.toml"
-hash = "3ae387a72f78d6f84d5beed7d4c55d5a93fcc4e11525873f2e91d7d11bd04b7e"
-metafile = true
-
-[[files]]
 file = "resourcepacks/connected-bricks.pw.toml"
 hash = "474e7c260a2fcd9902cf210bb7038a326ac2864a3506a31f89fe9a87baa13d3d"
 metafile = true
