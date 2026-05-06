@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","continuity:default","file/Gentler Weather Sounds 2.2.0.zip","file/Simple Grass Flowers v1.9.6.zip","file/Fancy Crops v1.3.zip","file/Connected-Paths 1.14-1.21.8 v2.1.1.zip","file/Connected-Bricks 1.14-1.21.3 v1.0.zip","file/Connected-Rocks 1.14-1.21.8 v1.1.1.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","continuity:default","file/Gentler Weather Sounds 2.2.0.zip","file/Simple Grass Flowers v1.9.6.zip","file/Fancy Crops v1.3.zip","file/Connected-Paths 1.14-1.21.8 v2.1.1.zip","file/Connected-Bricks 1.14-1.21.3 v1.0.zip","file/Connected-Rocks 1.14-1.21.8 v1.1.1.zip","file/Recolourful Containers 3.1.1 (1.19.4+).zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
