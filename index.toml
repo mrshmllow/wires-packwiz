@@ -273,6 +273,11 @@ hash = "74a9c6f2f890649eb693c9f48c3d99148b5526e23371cf1a9a6276bd3b21b214"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "f3935636357eb78086ff6ba4e8ed68ea0d63411dadbaaf97f25727cfbc6399e3"
+metafile = true
+
+[[files]]
 file = "mods/fastquit-forge.pw.toml"
 hash = "574e4be5a4194cf6a44a5d064e3734dfbaac911c3caebfdf722ed7c35ff5215e"
 metafile = true
