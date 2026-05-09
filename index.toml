@@ -44,6 +44,11 @@ hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "ba58df8c82fc920a316a3ad2f8d52e985e34cd09713487ccbb5ea778b6168c2d"
 metafile = true
@@ -59,8 +64,13 @@ hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
 metafile = true
 
 [[files]]
+file = "mods/clean-swing-through-grass.pw.toml"
+hash = "69968d3337983555531273604549745ad124bc95e19363f69cb4d1e41f47a980"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
