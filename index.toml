@@ -43,6 +43,11 @@ hash = "e11cfc61de6c698ac4f4b28e9ebe2ea2d665d01c2bd994307c74263969b9ca28"
 metafile = true
 
 [[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "43c18808adba85a5332cd39fc14ef1097c379ba150300c817b15b07190b87a8d"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "615be53690682df51c988dfecf3062551e3cdde5410a397e25b31ac290f574f3"
 metafile = true
