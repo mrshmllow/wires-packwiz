@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
+hash = "0bb2ce650cc6becbb7e88cb90ae95f8757930b9d21025d8974b39e202ead3cfe"
 metafile = true
 
 [[files]]
@@ -569,12 +569,12 @@ metafile = true
 
 [[files]]
 file = "mods/voxy-0-2-14-alpha-75ad50a9-jar.pw.toml"
-hash = "c1c784300a7eea3e52ff99a8cc9bff778c6444dfaa406b94e7576984d0363f4e"
+hash = "9f5f0f427ec90a734ba3d503b4f341d83448f05dd04ef08b4cfc6098b3d9379d"
 metafile = true
 
 [[files]]
 file = "mods/voxyserver-1-1-5-jar.pw.toml"
-hash = "9142e67f8b761620f30c7c03a4de8a9ed743191940698770a37c542a706d02ee"
+hash = "ed3b9e696159819470c0872d14192cb81aec2b6845aaec5a987ad6aeb0b0c93c"
 metafile = true
 
 [[files]]
