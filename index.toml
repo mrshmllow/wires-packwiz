@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "43c18808adba85a5332cd39fc14ef1097c379ba150300c817b15b07190b87a8d"
+hash = "ed9591f021a25beb36168f438649ac9274847934931a013e4e3d9f9edf077f17"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "0ca90a25548289e4149c3d8435d50b75ff28bb83f973bf3e2cdc8a0b4b911acc"
+hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
 metafile = true
 
 [[files]]
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "ca37901ce16f10e30715edf354b5d08c500e60abdb7ce64da79ce04a3d880ced"
+hash = "6b54728e52eaa83bd5dafb64c15a188e5becd1621a856916f52920c406bcd7c4"
 metafile = true
 
 [[files]]
