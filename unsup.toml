@@ -7,7 +7,7 @@ side = "client"
 
 [[flavor_groups.creative.choices]]
 id = "creative_mode_off"
-name = "Off"
+name = "Off (Recommended)"
 description = "Normal non-creative mode flavour."
 
 [[flavor_groups.creative.choices]]
