@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/connector.json"
+hash = "2d1f049396afdf1ffbb15ee74212a6a4ff8e18463dc5f213ce615fef45a40bc8"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "d3ab2563c666063a9cff0320b932d0e625705915c3b1ee140afcffd5aa9c899c"
 
