@@ -308,6 +308,11 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "bbcbc7b4f4510f9dde83cac3d7c674536195cdbdd049207552a685c1a291997a"
+metafile = true
+
+[[files]]
 file = "mods/flerovium.pw.toml"
 hash = "ba78231dfcbe61e2df15ff861fad0bc6c6594ba1425280ae0de86a044407d07e"
 metafile = true
