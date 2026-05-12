@@ -2,6 +2,9 @@ name = "Terralith: No Structures"
 filename = "Terralith_No_Structures_v1.1.jar"
 side = "both"
 
+[option]
+optional = true
+
 [download]
 url = "https://cdn.modrinth.com/data/AVxrmCCE/versions/gHEBqjS9/Terralith_No_Structures_v1.1.jar"
 hash-format = "sha512"

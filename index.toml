@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "0bb2ce650cc6becbb7e88cb90ae95f8757930b9d21025d8974b39e202ead3cfe"
+hash = "4e2de447600d301c352474136aca31d5e9a4435f7487c360f7bfdc6b193caa69"
 metafile = true
 
 [[files]]
@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
-hash = "2e9dead89853555c8d909fe2549af2db5e5051c690fae695df93d2369aa8314c"
+hash = "97ecfd6e8f0fcf8b2c0bd30b63eb195eb7e73e6285bb78a5c2fd0694b763bb3e"
 metafile = true
 
 [[files]]
@@ -534,12 +534,12 @@ metafile = true
 
 [[files]]
 file = "mods/terralith-no-structures.pw.toml"
-hash = "0bfb5c7b184192309b34edb31cf6e8725e4f595a358d8bdae60a2bd5006e07d8"
+hash = "4569323bd04b27a7654f7b804282533974cbd9127804163e4d87085475467da6"
 metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+hash = "1b4037bc7558723d697d6d1fea438bbc9d53e96fbed6a40fc6c25470536cb88a"
 metafile = true
 
 [[files]]
@@ -568,13 +568,13 @@ hash = "ce2c77ea4776ab4945d50f8eb286d673abb946320d2aa8a3b956b58e4353fc50"
 metafile = true
 
 [[files]]
-file = "mods/voxy-0-2-14-alpha-75ad50a9-jar.pw.toml"
-hash = "9f5f0f427ec90a734ba3d503b4f341d83448f05dd04ef08b4cfc6098b3d9379d"
+file = "mods/voxy.pw.toml"
+hash = "2af1a552a2e40a8965ab4213c5ed65631aa1e5117402d4e0f9f8c0004a315667"
 metafile = true
 
 [[files]]
-file = "mods/voxyserver-1-1-5-jar.pw.toml"
-hash = "ed3b9e696159819470c0872d14192cb81aec2b6845aaec5a987ad6aeb0b0c93c"
+file = "mods/voxyserver.pw.toml"
+hash = "66fea9d1f7865151b108c8ebaa10d7270d14d7257f6cd2b155509deb1794a765"
 metafile = true
 
 [[files]]
@@ -636,3 +636,7 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
+
+[[files]]
+file = "unsup.toml"
+hash = "52f6ef6765b2756c17826bd79f1a9a9033884f260a387634c9935b1cb5b01553"

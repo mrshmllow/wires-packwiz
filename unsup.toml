@@ -1,0 +1,64 @@
+# creative flavour
+
+[flavor_groups.creative]
+name = "Creative Mode"
+description = "Creative building tweaks to the modpack."
+side = "client"
+
+[[flavor_groups.creative.choices]]
+id = "creative_mode_off"
+name = "Off"
+description = "Normal non-creative mode flavour."
+
+[[flavor_groups.creative.choices]]
+id = "creative_mode_on"
+name = "On"
+description = "Installs Axiom & disables world gen mods for superflat to work properly."
+
+# LODS
+
+[flavor_groups.lod]
+name = "LOD Mod"
+description = "LOD mod to use."
+side = "client"
+
+[[flavor_groups.lod.choices]]
+id = "lod_dh"
+name = "DH"
+description = "Enables distant horizons."
+
+[[flavor_groups.lod.choices]]
+id = "lod_voxy"
+name = "Voxy"
+description = "Enables Voxy & VoxySever"
+
+# metafiles
+
+# -- creative on
+
+[metafile.axiom]
+flavors = "creative_mode_on"
+
+# -- creative off
+
+[metafile.terralith]
+flavors = "creative_mode_off"
+
+[metafile.remove-terralith-intro-message]
+flavors = "creative_mode_off"
+
+[metafile.terralith-no-structures]
+flavors = "creative_mode_off"
+
+# -- voxy
+
+[metafile.voxy]
+flavors = "lod_voxy"
+
+[metafile.voxyserver]
+flavors = "lod_voxy"
+
+# -- dh
+
+[metafile.distanthorizons]
+flavors = "lod_dh"

@@ -1,11 +1,9 @@
-name = "VoxyServer-1.1.5.jar"
+name = "VoxyServer"
 filename = "VoxyServer-1.1.5.jar"
 side = "both"
 
 [option]
 optional = true
-default = false
-description = "This & Voxy should be enabled together."
 
 [download]
 url = "https://files.catbox.moe/cxeg6o.5"
