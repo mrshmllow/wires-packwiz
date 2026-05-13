@@ -13,7 +13,7 @@ description = "Normal non-creative mode flavour."
 [[flavor_groups.creative.choices]]
 id = "creative_mode_on"
 name = "On"
-description = "Installs Axiom & disables world gen mods for superflat to work properly."
+description = "Installs Axiom and disables world gen mods for superflat to work properly."
 
 # LODS
 
@@ -30,7 +30,7 @@ description = "Enables distant horizons."
 [[flavor_groups.lod.choices]]
 id = "lod_voxy"
 name = "Voxy"
-description = "Enables Voxy & VoxySever"
+description = "Enables Voxy and VoxySever"
 
 # metafiles
 
