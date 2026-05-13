@@ -672,5 +672,10 @@ hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
 
 [[files]]
+file = "shaderpacks/i-like-vanilla.pw.toml"
+hash = "9c064e00e3e2a0facd0c4738646c6a626005a5768afd3a6976f504a1d1c4bf62"
+metafile = true
+
+[[files]]
 file = "unsup.toml"
 hash = "aba9a07883cdc992e70a7b969a9717d6528038b66f594c863d5a3f964843d044"
