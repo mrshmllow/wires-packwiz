@@ -6,7 +6,7 @@ hash = "2d1f049396afdf1ffbb15ee74212a6a4ff8e18463dc5f213ce615fef45a40bc8"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "d3ab2563c666063a9cff0320b932d0e625705915c3b1ee140afcffd5aa9c899c"
+hash = "bb5d7767af90a94f963b0a6c6bdbcf476a0ac6a2a2f5de48a76f5cd95b364988"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "7425a8f6d66cb438e3ebb3136c814e04ace39d700c8145f68473bd24c6f5ca42"
+hash = "24da550295e01f5f34add7ca519e3ee4dd3d597633d9c0308cce39387086f12b"
 metafile = true
 
 [[files]]
