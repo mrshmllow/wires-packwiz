@@ -3,8 +3,8 @@ filename = "gml-6.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "29a8153c54b9b03a3b4b42be7d77fe4ac2459720"
+hash-format = "sha512"
+hash = "dba6da1b6b7248ca14be3bd40d886f6a92623aadda11eac43a1b7d4248beb5343da108e851c141eefa175c1705e5d83f2ced5067512f9e8c8ba2f00b9b966332"
 mode = "metadata:curseforge"
 
 [update]

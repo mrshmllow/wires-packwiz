@@ -2,9 +2,6 @@ name = "Terralith"
 filename = "Terralith_1.21.x_v2.5.8.jar"
 side = "both"
 
-[option]
-optional = true
-
 [download]
 url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/MuJMtPGQ/Terralith_1.21.x_v2.5.8.jar"
 hash-format = "sha512"
@@ -14,3 +11,6 @@ hash = "f862ed5435ce4c11a97d2ea5c40eee9f817c908f3223b5fd3e3fff0562a55111d7429dc7
 [update.modrinth]
 mod-id = "8oi3bsk5"
 version = "MuJMtPGQ"
+
+[option]
+optional = true
