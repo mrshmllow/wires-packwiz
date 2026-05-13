@@ -608,12 +608,12 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "3a749a066eb2018ec63150a40a536ba9f88f7eaf43db592a5d2d7147b709113d"
+hash = "7487c9089b143634c2d1e7264c341cc0ba197ece6cf35e875280167bbd173654"
 metafile = true
 
 [[files]]
 file = "mods/voxyserver.pw.toml"
-hash = "60c4908c5315df862a7345c16fd3358cf313fba00cc8b87be72e1c82b621c1f5"
+hash = "07c0771fdb97a51b01e9d5ecc0a2ea3f7f54c98dc9108423e13e0325893cd64b"
 metafile = true
 
 [[files]]

@@ -3,9 +3,9 @@ filename = "VoxyServer-1.1.5.jar"
 side = "both"
 
 [download]
-url = "https://files.catbox.moe/cxeg6o.5"
+url = "https://f005.backblazeb2.com/file/wires-create-pub/VoxyServer-1.1.5-080edca5.jar"
 hash-format = "sha512"
-hash = "22e37ec3d7677412aeb43b1b35dad814853cac034abd02b2b5a2934b2446163121c140dd70a163597a144ef9bc322bdccc5d883e8bc6df7b43fa1fe158fefa75"
+hash = "d049a34e6316e3f657920ae7a0e7c7acfd07c011e17f9664c40b72b6fb8aaa78ccbc0eaa4249be44b695cae65286a0a22774d59888fb9a668e64f9980b6a8e15"
 
 [option]
 optional = true
