@@ -67,6 +67,11 @@ hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "be9b84747fbddabebaaa182dfc3a4bb3f0b9d8c5a5473b6fd8fe92776458832e"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
 metafile = true
