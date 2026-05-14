@@ -1,13 +1,13 @@
 name = "Vanilla Backport"
-filename = "VanillaBackport-neoforge-1.21.1-1.1.7.3.jar"
+filename = "VanillaBackport-neoforge-1.21.1-1.1.7.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6xwxDTgf/versions/LeP0Mx54/VanillaBackport-neoforge-1.21.1-1.1.7.3.jar"
+url = "https://cdn.modrinth.com/data/6xwxDTgf/versions/AZLyELAH/VanillaBackport-neoforge-1.21.1-1.1.7.4.jar"
 hash-format = "sha512"
-hash = "085dccd2d5265a87f52925b8d481c7bc49268012df42496c90c771c090be17b358883129bdbf0f3f6ee49b758727fe326bd154f88d1aefa08dd7be4420ac82cb"
+hash = "34c1bdf0ff2c2a342c2c56bc68d951adf425089d78e9931d1047f88db2cdee8c0fef7112beff18b4f4b089d0a27b75b50840d1759e1ce38a4523e0245d3c4c7f"
 
 [update]
 [update.modrinth]
 mod-id = "6xwxDTgf"
-version = "LeP0Mx54"
+version = "AZLyELAH"
