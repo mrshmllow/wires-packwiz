@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "74a9c6f2f890649eb693c9f48c3d99148b5526e23371cf1a9a6276bd3b21b214"
+hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
 
 [[files]]
@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "f5e321f3657624719ecf252e91687929797aac207f3e1cdbe5ce40d9fef76db3"
+hash = "3f7a8bdef7b734c946e98830bbbf6cebef4dc53da9e2cbec38512d3ebfc74805"
 metafile = true
 
 [[files]]
