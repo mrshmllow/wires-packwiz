@@ -1,13 +1,13 @@
 name = "The Roads More Travelled [TRMT]"
-filename = "trmt-0.4-1.21+1.21.1.jar"
+filename = "trmt-0.5-1.21+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/74oZhrEe/versions/RGkKnnb1/trmt-0.4-1.21%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/74oZhrEe/versions/ju21kkR8/trmt-0.5-1.21%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "e60642994c9f052169e45a15dcac0dd2fb2da027aa51e04c7bffa9d5bcbd38894468cfc2670eccaeb688bce55c3305c48850571433650c4520c1196432c3a85f"
+hash = "a1d0194e85e38ab29645ec0d5418720aca0c9c01328744dd24188216af775155aedf6fd7e6d31db3a3b3e38617baaf0ac74aac44ba9423cb50d39648d4e43fa1"
 
 [update]
 [update.modrinth]
 mod-id = "74oZhrEe"
-version = "RGkKnnb1"
+version = "ju21kkR8"
