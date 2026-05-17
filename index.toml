@@ -332,11 +332,6 @@ hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
-file = "mods/globalpacks.pw.toml"
-hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
-metafile = true
-
-[[files]]
 file = "mods/gml.pw.toml"
 hash = "9e51ad85e0ccead24c80ba03117d523ef60a784977c99b098672857566267dfb"
 metafile = true
