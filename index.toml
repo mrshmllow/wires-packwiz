@@ -562,6 +562,11 @@ hash = "1fa203fbf7578d4f6fc251b3529cf79935d7e4a573a281241de74e488be639b7"
 metafile = true
 
 [[files]]
+file = "mods/superresolution.pw.toml"
+hash = "0a8766ff14cc80503ba216138b610553cd908a5053745e719b41a8f32701b4f4"
+metafile = true
+
+[[files]]
 file = "mods/terralith-no-structures.pw.toml"
 hash = "46d0fd99b9d1f577e16106a869fb5cf9aa9edd00b743102f50665e1b1f66f11d"
 metafile = true
