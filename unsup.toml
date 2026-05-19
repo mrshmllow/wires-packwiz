@@ -30,7 +30,7 @@ description = "Enables distant horizons."
 [[flavor_groups.lod.choices]]
 id = "lod_voxy"
 name = "Voxy"
-description = "Enables Voxy and VoxySever"
+description = "Enables Voxy"
 
 # metafiles
 
