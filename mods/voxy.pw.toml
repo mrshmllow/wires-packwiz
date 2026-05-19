@@ -1,6 +1,6 @@
 name = "voxy"
 filename = "voxy-0.2.14-alpha-75ad50a9.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://f005.backblazeb2.com/file/wires-create-pub/voxy-0.2.15-beta-0eb5103ba61f5e9859fd3319a92902902cb68d2f-sodium-0-8-12.jar"
