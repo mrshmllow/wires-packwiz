@@ -417,6 +417,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/no-realms-button.pw.toml"
+hash = "eb6acf239c66371c95a6c8993511a15a8c01da8b1705bf321b0f423d6e791548"
+metafile = true
+
+[[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "df6299f5622d3e53a9cae66696cdc7b2b557b11b5be101eebb7ebd7a91d501db"
 metafile = true
