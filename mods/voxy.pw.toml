@@ -3,9 +3,9 @@ filename = "voxy-0.2.14-alpha-75ad50a9.jar"
 side = "both"
 
 [download]
-url = "https://f005.backblazeb2.com/file/wires-create-pub/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead.jar"
+url = "https://f005.backblazeb2.com/file/wires-create-pub/voxy-0.2.15-beta-0eb5103ba61f5e9859fd3319a92902902cb68d2f-sodium-0-8-12.jar"
 hash-format = "sha512"
-hash = "f33c7e4e24ffcfbdbda69fcc9d6475c668e02a8d31073f7682dcf98fb03a008e021979ff358cf6c0621f916bc50bdc45fe3ae1048b8f7260cdbd4140a5fe2db1"
+hash = "7cfe85a8583105d4cbb972130806e9e7b3d24c2d13c6af23e2070d71aeafd59ce03058660b41a18f7eac20338baf5f7bdac3e33a793f7d0010b1af3310eb438c"
 
 [option]
 optional = true

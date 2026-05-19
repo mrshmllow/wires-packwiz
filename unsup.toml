@@ -55,8 +55,9 @@ flavors = "creative_mode_off"
 [metafile.voxy]
 flavors = "lod_voxy"
 
-[metafile.voxyserver]
-flavors = "lod_voxy"
+# removed for testing sodium 0.8
+# [metafile.voxyserver]
+# flavors = "lod_voxy"
 
 # -- dh
 

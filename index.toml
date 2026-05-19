@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+hash = "c7f2f15326eb69edd24cadbe662744adc37375dc68b1b319d3afdc12bf020304"
 metafile = true
 
 [[files]]
@@ -487,11 +487,6 @@ hash = "b0dbfdfe96090dc844f4b19fe5f81a48f47522ebb0ea290a8ed5800c026f4643"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
-metafile = true
-
-[[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "21c2394f4c666a64344ea88b6e8f872c8d64b87cb359a954a84111a050d54d8a"
 metafile = true
@@ -508,7 +503,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
+hash = "22044644c43cb1cd96be3afd698da67c086d75732253f3ebf3e8227045bff732"
 metafile = true
 
 [[files]]
@@ -537,13 +532,8 @@ hash = "a118ed58955f9bc6a9367690818520e96f11b94b2067440bed55300139fc0988"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
-hash = "9bda5c5784ac697fc6fe0c1c6e8fec99dac8e2140c500150f055b75bc4a22a3a"
+hash = "fde75c72966b6f0248099d174024346cd4286065f7cb836857d48504d7d6d22d"
 metafile = true
 
 [[files]]
@@ -608,12 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "7487c9089b143634c2d1e7264c341cc0ba197ece6cf35e875280167bbd173654"
-metafile = true
-
-[[files]]
-file = "mods/voxyserver.pw.toml"
-hash = "07c0771fdb97a51b01e9d5ecc0a2ea3f7f54c98dc9108423e13e0325893cd64b"
+hash = "c5621a37d4c04cb5996f37f862b2c51fa38ccfa0c95385fd35f132bfff9947ac"
 metafile = true
 
 [[files]]
@@ -698,4 +683,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "aba9a07883cdc992e70a7b969a9717d6528038b66f594c863d5a3f964843d044"
+hash = "827b1d59d542921f6c20db0f3f4ff1ff51ebb664bb6722bd65aa9370ba36dae6"
