@@ -48,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "21f1696c8b7d6f46cd64b4dfeca942f1fb40e1f3702adaf947ff42ab2941203d"
+hash = "eb7b60d035c7780bae23a4392cab3871471fb83b5230e3c7df64eb15b955c51c"
 metafile = true
 
 [[files]]
@@ -563,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "mods/superresolution.pw.toml"
-hash = "0a8766ff14cc80503ba216138b610553cd908a5053745e719b41a8f32701b4f4"
+hash = "c6915ab328d572d7680481cfe33b9a0bd3fa8dfe4616e7acf8b6085c8f58d6c1"
 metafile = true
 
 [[files]]

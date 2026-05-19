@@ -14,4 +14,3 @@ version = "M7Tfgcod"
 
 [option]
 optional = true
-default = false
