@@ -1,11 +1,11 @@
 name = "Iris Shaders"
-filename = "iris-neoforge-1.8.12+mc1.21.1.jar"
+filename = "iris-neoforge-1.8.13-snapshot+mc1.21.1-local-sodium-0-8-12.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
+url = "https://f005.backblazeb2.com/file/wires-create-pub/iris-neoforge-1.8.13-snapshot%2Bmc1.21.1-build.5845.jar"
 hash-format = "sha512"
-hash = "57b8026a3c3c433cf6123d63dc6ce7e11f6d480a72926370db1fc7f2b06059bc16a753ecd7e7af659c19e90b592103196b0e89585ce4f0744a4ca433f59bcf1a"
+hash = "81474d2d092b1d1de34e00c08d442577975dd3e34a62cb5548724e1b8cf215addc8da022b0fea9f1c0007bd22bc66ad8aee70cc9b10fc53587cb3f8ba61c383e"
 
 [update]
 [update.modrinth]
