@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1b0bcb6b0739ac51a706398c6f3765e1875e95490a9284603ee5628c259a4f63"
+hash = "275d6b36432fdde0c95c5fb6175fe2abe63f584b66a763644e31a360ecf9b9b9"
 metafile = true
 
 [[files]]
@@ -688,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/i-like-vanilla.pw.toml"
-hash = "0a385186677526bca36d2af347c3e28958525ee88b51459ca843d88e6fdbbfca"
+hash = "a5a80aec1ed1c0e45d1f6e821294315f8900b6cc93a2a110fec6ab90c8551d04"
 metafile = true
 
 [[files]]
