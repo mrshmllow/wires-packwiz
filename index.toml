@@ -567,6 +567,11 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
+file = "mods/ssrd.pw.toml"
+hash = "d0854c170e1c60a2d6958654ce4017e5ccf1d60e3f9211e995e376cf8e17419d"
+metafile = true
+
+[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "1fa203fbf7578d4f6fc251b3529cf79935d7e4a573a281241de74e488be639b7"
 metafile = true
