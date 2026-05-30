@@ -48,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-3d.pw.toml"
-hash = "e11cfc61de6c698ac4f4b28e9ebe2ea2d665d01c2bd994307c74263969b9ca28"
+hash = "af03b03bc5f9303144b4bb43dc2b0ce8e41910bf8d755f129d567436ea8368fe"
 metafile = true
 
 [[files]]
