@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "457b8c30d85188e1deadbc2fe2f15b24eb67a0064ff6309a8eb9f356e43ece8d"
+hash = "ae59a5304fb5e519acbba7ae462cfa216810736b6cfce0fe8b3915849ad5aa9d"
 metafile = true
 
 [[files]]
