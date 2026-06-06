@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "345f384d5c4faaf1e7d47a0d42817370db6aaed10610fae34f069a0d15fd0066"
+hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
 metafile = true
 
 [[files]]
@@ -693,4 +693,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "432f82762b3887e703405b75fc583cf4feaa4d6c636c43f14e71b16d6c9bbb05"
+hash = "26e57903c615d1011bd72a19c06189e77c8fdf9ea6e90cd53fc42b61c63eb000"

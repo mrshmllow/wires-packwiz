@@ -15,23 +15,6 @@ id = "creative_mode_on"
 name = "On"
 description = "Installs Axiom and disables world gen mods for superflat to work properly."
 
-# LODS
-
-[flavor_groups.lod]
-name = "LOD Mod"
-description = "LOD mod to use."
-side = "client"
-
-[[flavor_groups.lod.choices]]
-id = "lod_dh"
-name = "DH"
-description = "Enables distant horizons."
-
-# [[flavor_groups.lod.choices]]
-# id = "lod_voxy"
-# name = "Voxy"
-# description = "Enables Voxy and VoxySever"
-
 # metafiles
 
 # -- creative on
@@ -49,17 +32,3 @@ flavors = "creative_mode_off"
 
 [metafile.terralith-no-structures]
 flavors = "creative_mode_off"
-
-# -- voxy
-
-# [metafile.voxy]
-# flavors = "lod_voxy"
-
-# removed for testing sodium 0.8
-# [metafile.voxyserver]
-# flavors = "lod_voxy"
-
-# -- dh
-
-[metafile.distanthorizons]
-flavors = "lod_dh"
