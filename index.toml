@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "21399291eab26dc16a3d3455b4388df2bc42512570729dbcdd60697c1a84fd77"
+hash = "3f99808dda6b83374cea1d478e2688c69af71a7381b176d0a7df50d219e44ca9"
 metafile = true
 
 [[files]]
@@ -163,12 +163,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "8537630bc53bd3ffaa1539e0ea0c4c1569609e0a1430166c2178b532ba507226"
+hash = "616a0a7fc051382574b73276c74e60ae7c40d9cf1bbb9113375da164278ae94f"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "2da501ad838751519916dc38b548c81bcf778517712e5302a3d0bbfdf8656220"
+hash = "166d312672116bc62648572337c66018be6e794eb12e25fb2b508f686fdd58e5"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "636f08c84e9a1e1793850aa4f2390e5ece8fc25abee1d5d83679f3813e113802"
+hash = "3649884607b2d18dc33cae6736f2bb8a7e962ed4ab3e4b4d226cd6d7267a2d0f"
 metafile = true
 
 [[files]]
