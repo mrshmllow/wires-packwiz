@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "616a0a7fc051382574b73276c74e60ae7c40d9cf1bbb9113375da164278ae94f"
+hash = "cab6f316cb4ef454bbfa18b32263c3fb7c246a0405a505611c1e36b5eabd48f0"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "c95df2470e58f3c146869da67cea45320744b3fefad5274ed9883aed5628c10a"
+hash = "642767513d3cc03bdeb63a4d85b3911ae52febb278d5fd99487dc6e199eab631"
 metafile = true
 
 [[files]]
@@ -413,7 +413,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
+hash = "c8ac0bf19049381f3f05aa46bfea8f2a742d340a3285ecfb7118eab6327cff99"
 metafile = true
 
 [[files]]
@@ -568,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "mods/superresolution.pw.toml"
-hash = "c6915ab328d572d7680481cfe33b9a0bd3fa8dfe4616e7acf8b6085c8f58d6c1"
+hash = "10f124da23938b504825d8a95c79e4d3c7bae0041ca15b1d7c046ffdcdfd844a"
 metafile = true
 
 [[files]]
@@ -598,12 +598,12 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "de1c3ce98add2a76db8756ff390ea05dbed4b60f9c4d6cd81eaf01c25aed9f5e"
+hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
 metafile = true
 
 [[files]]
 file = "mods/vb-compat.pw.toml"
-hash = "e73ba1fc4574456c9603def3ccad9848b294e42ca817dd50e38a2c434d8b016d"
+hash = "68d909ad78c01deb1e67a31311e4b42287440db81bc86d0575e9046a7dcd835f"
 metafile = true
 
 [[files]]
@@ -683,7 +683,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/renderpearl.pw.toml"
-hash = "d6d734e58c61c72567b69d5eaed9021aef997fd68fe49b2506f9c2bd9f1b276c"
+hash = "e239577ae5bb4e72f5de099157a8958750c2b5e8dc548b48ad67a01fa718cb46"
 metafile = true
 
 [[files]]
