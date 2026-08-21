@@ -1,5 +1,20 @@
 # creative flavour
 
+[flavor_groups.particle_asethetic]
+name = "particle Asethetic Things"
+description = "Asethetic choices that not everyone would like"
+side = "client"
+
+[[flavor_groups.particle_asethetic.choices]]
+id = "particle_off"
+name = "Off"
+description = "Removes optional particle asethetic mods."
+
+[[flavor_groups.particle_asethetic.choices]]
+id = "particle_on"
+name = "On"
+description = "Adds asethetic mods, mostly particle based stuff."
+
 [flavor_groups.creative]
 name = "Creative Mode"
 description = "Creative building tweaks to the modpack."
@@ -16,6 +31,20 @@ name = "On"
 description = "Installs Axiom and disables world gen mods for superflat to work properly."
 
 # metafiles
+
+# -- particle on
+
+[metafile.fallingleavesforge]
+flavors = "particle_on"
+
+[metafile.particle-effects]
+flavors = "particle_on"
+
+[metafile.particle-interactions]
+flavors = "particle_on"
+
+[metafile.particular-reforged]
+flavors = "particle_on"
 
 # -- creative on
 
